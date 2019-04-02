@@ -1,4 +1,4 @@
-# Neon WebSite Automation Test
+# Unochapeco WebSite Automation Test
 Testing Status and texts with
 - Cucumber
 - Capybara 
@@ -48,7 +48,7 @@ PROFILE: [profiles](cucumber.yml)
 
 Example: 
 ```shell
-bundle exec rake run[chrome,qa,pt,local,true,question]
+bundle exec rake run[chrome,qa,pt,local,true,webmail]
 ```
 
 ### PlayList listened to do this project: ###
