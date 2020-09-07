@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'capybara'
-gem 'cucumber'
+gem 'cucumber', '>= 4.0.0'
 gem 'os'
 gem 'rake'
 gem 'rspec'
